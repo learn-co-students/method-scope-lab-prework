@@ -7,10 +7,6 @@ end
 
 
 ## Comment the below back in to see method scope in action!
-
-# rescue_princess_peach
-# puts status
-
-
-
-
+# No it's a local variable.
+#rescue_princess_peach
+#puts status
