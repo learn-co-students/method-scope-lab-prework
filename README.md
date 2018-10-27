@@ -1,3 +1,4 @@
+
 # Method Scope Lab
 
 ## Objectives
